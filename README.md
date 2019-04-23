@@ -25,6 +25,10 @@ Resources relating to my Lightning Talk on the Spotlight Stage at CYBERUK 2019, 
 * [The Daily Swig](https://portswigger.net/daily-swig)
 * [WeLiveSecurity](https://www.welivesecurity.com/)
 
+## RSS Aggregator
+
+* [Moonmoon](https://moonmoon.org)
+
 ## Security Search Engines
 
 * [crt.sh Certificate Search](https://crt.sh)
